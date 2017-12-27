@@ -6,7 +6,7 @@ Fayola Peters, Thein T. Tun, Yijun Yu, and Bashar Nuseibeh. "Text Filtering and 
 
 Note. Minor changes to `Chromium.csv` were applied so that JSON parser can accept the data (non-ASCII words removed).
 
-## Script is adapted from [AllenNLP](https://github.com/allenai/allennlp-as-a-library-example)
+## The following [script](https://github.com/yijunyu/allennlp-as-a-library-example/blob/master/run) is adapted from [AllenNLP](https://github.com/allenai/allennlp-as-a-library-example)
 ```
-./[run](https://github.com/yijunyu/allennlp-as-a-library-example/blob/master/run)
+./run
 ```
