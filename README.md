@@ -1,3 +1,13 @@
+# Security Bug classifications for [Chromium datasets](https://bitbucket.org/fayola21-lero/farsec47/src/eab43bb110e531c422b958989a22b5987c641ad4/resources/data/scrubbed/Chromium.csv?at=master) from the following paper:
+
+Fayola Peters, Thein T. Tun, Yijun Yu, and Bashar Nuseibeh. "Text Filtering and Ranking for Security Bug Report Prediction", TSE, To Appear, 2017.
+
+## Script
+```
+./run
+```
+
+## Tutorial inherited from [AllenNLP](https://github.com/allenai/allennlp-as-a-library-example)
 A simple example for how to build your own model using AllenNLP as a dependency.  An explanation
 of all of the code in this repository is given in an [AllenNLP
 tutorial](https://github.com/allenai/allennlp/blob/master/tutorials/getting_started/using_in_your_repo.md).
