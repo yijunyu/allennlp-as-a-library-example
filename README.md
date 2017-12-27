@@ -8,5 +8,5 @@ Note. Minor changes to `Chromium.csv` were applied so that JSON parser can accep
 
 ## Script is adapted from [AllenNLP](https://github.com/allenai/allennlp-as-a-library-example)
 ```
-./run
+./[run](https://github.com/yijunyu/allennlp-as-a-library-example/blob/master/run)
 ```
