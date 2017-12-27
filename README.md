@@ -1,10 +1,10 @@
 # Security bugs classification through deep learning
 
-## The [Chromium datasets](https://bitbucket.org/fayola21-lero/farsec47/src/eab43bb110e531c422b958989a22b5987c641ad4/resources/data/scrubbed/Chromium.csv?at=master) is inherited from the following paper:
+## The [Chromium dataset](https://bitbucket.org/fayola21-lero/farsec47/src/eab43bb110e531c422b958989a22b5987c641ad4/resources/data/scrubbed/Chromium.csv?at=master) is inherited from the following paper:
 
 Fayola Peters, Thein T. Tun, Yijun Yu, and Bashar Nuseibeh. "Text Filtering and Ranking for Security Bug Report Prediction", IEEE Trans. on Software Engineering, To Appear, 2017.
 
-Note. Some minor changes to `Chromium.csv` were applied to remove non-English text so that JSON parser can accept the data.
+Note. Minor changes to `Chromium.csv` were applied so that JSON parser can accept the data (non-ASCII words removed).
 
 ## Script
 ```
